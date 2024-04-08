@@ -1,0 +1,246 @@
+﻿Study Ref;Taxon;Effect size (day/degree increase);Precision (SE);Sample size (Years);Sample Size (Sites);SamplesTotal;(Country);Moderator 3 (phenological measure);Moderator 4 (Analysis type);(Years);p-value;Moderator(Latitude);Moderator(Years);Moderator(Voltinism)
+1;Thymelicus sylvestris;-4.9;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Ochlodes venata;-5.1;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Erynnis tages;-6.2;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Pyrgus malvae;0.7;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Anthocharis cardamines;-1.7;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Callophrys rubi;-1.8;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Quercusia quercus;-2.1;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Lysandra coridon;-7.7;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Limenitis camilla;-4.8;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Clossiana selene;-1.9;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.01;;;
+1;Clossiana euphrosyne;-1.9;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Argynnis aglaja;-0.3;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.01;;;
+1;Argynnis paphia;-5.9;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.01;;;
+1;Melanargia galathea;-4.7;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Hipparchia semele;-3.3;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.01;;;
+1;Pyronia tithonus;-7;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Maniola jurtina;-4.7;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Aphantopus hyperantus;-3;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Gonepteryx rhamni;-4.4;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.01;;;
+1;Inachis io;-6.6;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Pieris brassicae;-9.3;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Pieris napi;-0.4;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Pieris rapae;-3.9;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Lycaena phlaeas;-2.4;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.05;;;
+1;Aricia agestis;-3.7;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.05;;;
+1;Polyommatus icarus;-2.5;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.01;;;
+1;Lysandra bellargus;-11.8;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Celastrina argiolus;;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;;;;
+1;Vanessa atalanta;-9.2;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Cynthia cardui;;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;;;;
+1;Aglais urticae;-1.9;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.05;;;
+1;Polygonia c-album;-5.4;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Pararge aegeria;-10.2;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Lasiommata megera;-8.2;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+1;Coenonympha pamphilus;-2.5;;23;;23;Britain;Appearance Mean First;Temporal;1976–1998;0.001;;;
+2;Pieris brassicae;-5.26;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;0.05;;;
+2;Pieris rapae;-3.34;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;0.05;;;
+2;Pieris napi;-3.43;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;0.05;;;
+2;Anthocharis cardamines;-3.77;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;0.05;;;
+2;Lycaena phlaeas;-4.89;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;0.05;;;
+2;Celastrina argiolus;-4.33;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;0.05;;;
+2;Vanessa atalanta;-5.03;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;;;;
+2;Vanessa cardui;-8.02;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;;;;
+2;Araschnia levana;-4.12;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;0.05;;;
+2;Issoria lathonia;-9.27;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;0.05;;;
+2;Pararge aegeria;-4.33;;13;;13;Netherlands;Quarter of all first appearances were first observed;Temporal;1992-2005;;;;
+3;Ancyloxypha numitor;3.03;1.515306122;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.03;40.125;12;Multivoltine
+3;Asterocampa celtis;1.35;2.051020408;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.502;40.125;12;Multivoltine
+3;Celastrina ladon;0.574;1.22755102;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.658;40.125;12;Multivoltine
+3;Celastrina neglecta;-2.62;1.529081633;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.072;40.125;12;Multivoltine
+3;Cercyonis pegala;-0.555;0.875;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.508;40.125;12;Univoltine
+3;Colias eurytheme;0.499;1.704591837;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.758;40.125;12;Multivoltine
+3;Colias philodice;-5.11;2.020408163;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.006;40.125;12;Multivoltine
+3;Cupido comyntas;-1.05;2.204081633;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.608;40.125;12;Multivoltine
+3;Epargyreus clarus;-4.73;1.658163265;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.001;40.125;12;Univoltine
+3;Erynnis baptisiae;-0.707;4.687244898;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.886;40.125;12;Multivoltine
+3;Limenitis archippus;5.5;1.87244898;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.008;40.125;12;Multivoltine
+3;Megisto cymela;-1.53;0.620918367;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.018;40.125;12;Univoltine
+3;Papilio glaucus;-4.3;1.418367347;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.001;40.125;12;Multivoltine
+3;Papilio troilus;-1.4;2.020408163;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.518;40.125;12;Multivoltine
+3;Phyciodes tharos;-0.487;1.120918367;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.692;40.125;12;Multivoltine
+3;Pieris rapae;4.06;1.020408163;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.001;40.125;12;Multivoltine
+3;Polites peckius;5.78;1.821428571;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.002;40.125;12;Multivoltine
+3;Speyeria cybele;-2.77;6.183673469;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.001;40.125;12;Univoltine
+3;Thymelicus lineola;-2.62;0.668367347;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.048;40.125;12;Univoltine
+3;Vanessa atalanta;-0.911;1.490306122;;83;83;USA (Ohio);Appearance Mean First;Spatial;1996-2008;0.564;40.125;12;Multivoltine
+6;Pieris rapae;-0.203;0.03;;52;52;Spain;Appearance Mean First;Temporal;1952-2004;0.001;39.875;52;Multivoltine
+11;Callophrys augustinus;-5.35;;23;;23;USA(Massachusetts);Observed 20% first appearances ;Temporal;1986-2009;0.0001;42.375;23;
+11;Callophrys henrici;-4.2;1.2;23;;23;USA(Massachusetts);Observed 20% first appearances ;Temporal;1986-2009;0.0033;42.375;23;Univoltine
+11;Callophrys irus;-4.43;;23;;23;USA(Massachusetts);Observed 20% first appearances ;Temporal;1986-2009;0.0024;42.375;23;
+11;Callophrys niphon;-5.64;0.61;23;;23;USA(Massachusetts);Observed 20% first appearances ;Temporal;1986-2009;0.0001;42.375;23;Multivoltine
+11;Satyrium acadicum;-3.04;;23;;23;USA(Massachusetts);Observed 20% first appearances ;Temporal;1986-2009;0.0353;42.375;23;
+11;Satyrium calanus;-3.54;;23;;23;USA(Massachusetts);Observed 20% first appearances ;Temporal;1986-2009;0.0001;42.375;23;
+11;Satyrium edwardsii;-1.41;;23;;23;USA(Massachusetts);Observed 20% first appearances ;Temporal;1986-2009;0.0576;42.375;23;
+11;Satyrium liparops;-3.42;0.62;23;;23;USA(Massachusetts);Observed 20% first appearances ;Temporal;1895-2009;0.0001;42.375;114;Univoltine
+11;Satyrium titus;-1.63;;23;;23;USA(Massachusetts);Observed 20% first appearances ;Temporal;1986-2009;0.0026;42.375;23;
+16;Thymelicus sylvestris;-6.41;0.852040816;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Hesperia comma;-4.35;3.821428571;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Ochlodes sylvanus;-6.76;0.632653061;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Erynnis tages;-5.68;0.5;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Pyrgus malvae;-6;0.729591837;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+16;Anthocharis cardamines;-7.21;0.571428571;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Callophrys rubi;-5.42;0.423469388;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Polyommatus coridon;-5.22;0.734693878;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Limenitis camilla;-7.83;0.494897959;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+16;Boloria selene;-6.25;0.994897959;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+16;Boloria euphrosyne;-6.96;0.637755102;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Argynnis adippe;-6.22;0.780612245;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Argynnis aglaja;-4.62;0.806122449;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Argynnis paphia;-5.53;0.862244898;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Euphydryas aurinia;-6.97;0.928571429;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Melanargia galathea;-6.92;0.581632653;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Hipparchia semele;-3.74;0.698979592;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Pyronia tithonus;-6.13;0.408163265;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Maniola jurtina;-4.54;0.780612245;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Aphantopus hyperantus;-6.52;0.448979592;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Gonepteryx rhamni;-8.31;0.785714286;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Aglais io;-7.6;0.979591837;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Pieris rapae;-9.07;0.892857143;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+16;Pieris napi;-8.21;0.668367347;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+16;Pieris brassicae;-8.1;0.607142857;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+16;Lycaena phlaeas;-6.73;0.551020408;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+16;Cupido minimus;-4.98;0.653061224;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Univoltine
+16;Aricia agestis;-6.23;0.581632653;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+16;Polyommatus icarus;-7.04;0.933673469;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+16;Celastrina argiolus;-5.89;0.540816327;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+16;Lasiommata megera;-7.33;0.387755102;37;;37;Britain;Appearance Mean First;Temporal;1975-2012;;54;37;Multivoltine
+29;Pieris rapae;-6.1;0.7;64;;64;Britain;Appearance Mean First;Temporal;1883-1947;0.001;52.5;64;Multivoltine
+29;Anthocharis cardamines;-5.6;0.5;81;;81;Britain;Appearance Mean First;Temporal;1883-1947/1976-1993;0.001;52.5;81;Univoltine
+29;Maniola jurtina;-4.2;0.8;81;;81;Britain;Appearance Mean First;Temporal;1883-1947/1976-1993;0.001;52.5;81;Univoltine
+29;Lycaena phlaeas;-9.2;1.8;81;;81;Britain;Appearance Mean First;Temporal;1883-1947/1976-1993;0.001;52.5;81;Multivoltine
+29;Celastrina argiolus;-8.7;1.4;81;;81;Britain;Appearance Mean First;Temporal;1883-1947/1976-1993;0.001;52.5;81;Multivoltine
+29;Coenonympha pamphilus;-7.1;1.2;81;;81;Britain;Appearance Mean First;Temporal;1883-1947/1976-1993;0.001;52.5;81;Multivoltine
+29;Polyommatus icarus;-5.5;1.2;81;;81;Britain;Appearance Mean First;Temporal;1883-1947/1976-1993;0.001;52.5;81;Multivoltine
+29;Ochlodes sylvanus;-5.4;1;81;;81;Britain;Appearance Mean First;Temporal;1883-1947/1976-1993;0.001;52.5;81;Univoltine
+29;Vanessa cardui;-10.7;3.8;81;;81;Britain;Appearance Mean First;Temporal;1883-1947/1976-1993;0.05;52.5;81;Multivoltine
+29;Vanessa atalanta;-9.5;2.3;81;;81;Britain;Appearance Mean First;Temporal;1883-1947/1976-1993;0.001;52.5;81;Univoltine
+32;Aglais io;-7.100041763;0.310106422;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Aglais urticae;-4.498209166;0.331459796;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Multivoltine
+32;Anthocharis cardamines;-4.712682562;0.433396131;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Apatura iris;-3.433043719;1.174778078;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Aphantopus hyperantus;-0.417172276;0.464554999;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Aporia crataegi;-3.748325601;0.758590882;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Araschnia levana;-3.024144772;0.475884353;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Multivoltine
+32;Argynnis aglaja;-1.465562801;1.250492648;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Argynnis paphia;-1.165576542;0.443084575;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Aricia agestis;1.830608829;0.834791288;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Multivoltine
+32;Boloria selene;-2.764566362;1.469515017;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Multivoltine
+32;Brenthis ino;-1.900271504;1.710579198;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Callophrys rubi;-4.088703199;1.114625201;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Carterocephalus palaemon;-2.55145896;0.890521777;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Celastrina argiolus;-3.277859807;0.649513592;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Multivoltine
+32;Coenonympha arcania;-3.588645241;0.97398946;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Coenonympha pamphilus;-1.124629485;0.406929903;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Multivoltine
+32;Colias hyale;4.24168515;0.79625999;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Multivoltine
+32;Cupido minimus;-1.206337819;0.994835963;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Cyaniris semiargus;1.531755347;0.89139521;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Erebia ligea;1.770388611;1.068487895;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Erynnis tages;-0.942757456;0.995239448;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Gonepteryx rhamni;-4.717663834;0.316835944;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Hamearis lucina;-2.679655164;1.564386328;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+32;Hesperia comma;2.153770145;1.790740197;;;;Germany;Mean Day of Record in GBIF;Temporal;1980-2020;;51;40;Univoltine
+41;Ochlodes sylvanus;-6.6;;11;;11;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+41;Gonepteryx rhamni;-4.8;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+41;Anthocharis cardamines;-5;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+41;Pieris brassicae;-4.1;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.01;;;
+41;Pieris napi;-4.4;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.01;;;
+41;Pieris rapae;-6;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.01;;;
+41;Lycaena phlaeas;-5.4;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.01;;;
+41;Callophrys rubi;-3.2;;10;;10;Netherlands;Appearance Mean First;Temporal;2001-2013;0.01;;;
+41;Celastrina argiolus;-4.9;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.01;;;
+41;Polyommatus icarus;-6.4;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.01;;;
+41;Pararge aegeria;-5.4;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.01;;;
+41;Coenonympha pamphilus;-3.2;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.01;;;
+41;Pyronia tithonus;-3.7;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+41;Aphantopus hyperantus;-4.8;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+41;Maniola jurtina;-8.9;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+41;Aglais io;-6;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+41;Polygonia c-album;-5.4;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+41;Araschnia levana;-3.6;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+41;Alliaria petiolata;-4;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+41;Cardamine pratensis;-3.8;;13;;13;Netherlands;Appearance Mean First;Temporal;2001-2013;0.001;;;
+47;Aporia crataegi;-6.58;0.4;;11;11;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Argynnis paphia;-5.3;0.5;;10;10;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Coenonympha arcania;-3.11;5.4;;9;9;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Euphydryas aurinia;-7.64;0.63;;11;11;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Fabriciana adippe;-5.94;0.58;;7;7;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Fabriciana niobe;-5.17;1.3;;16;16;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Hesperia comma;-4;0.44;;14;14;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Hipparchia hermione;-3.9;0.47;;15;15;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Hipparchia statilinus;-3.53;0.57;;13;13;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Hyponephele lycaon;-4.57;0.3;;15;15;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Lycaena alciphron;-1.06;2.88;;17;17;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Lycaena virgaureae;-5.85;0.35;;12;12;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Melanargia lachesis;-4.49;0.16;;22;22;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Pyronia tithonus;-3.24;0.34;;11;11;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Satyrus actaea;12.92;6.98;;8;8;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Speyeria aglaja;-6.42;4.66;;14;14;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+47;Thymelicus sylvestris;-6.41;0.44;;11;11;Spain;Appearance Mean First;Temporal+Spatial;2005-2018;;40.5;13;Univoltine
+48;Pyrgus malvae;1.15;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;40.5;13;Multivoltine
+48;Erynnis tages;−10.32;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Carterocephalus silvicola;−8.17;;19;;19;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Thymelicus lineola;−5.00;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Hesperia comma;−2.92;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Ochlodes sylvanus;−3.92;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Papilio machaon;−5.84;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Aporia crataegi;−2.79;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Pieris napi;−3.73;;19;;19;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Pieris rapae;−3.92;;16;;16;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Pieris brassicae;−2.61;;19;;19;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Anthocharis cardamines;−6.35;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Gonepteryx rhamni;−2.41;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Colias palaeno;−3.22;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Cupido minimus;−3.89;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Glaucopsyche alexis;−7.21;;15;;15;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Polymmatus semiargus;−4.53;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Polymmatus amandus;−3.57;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Polymmatus icarus;−5.33;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Maculinea arion;−2.21;;19;;19;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Celastrina argiolus;−4.33;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Plebejus argus;−3.48;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Plebejus idas;−2.91;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Plebejus optilete;−5.69;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Aricia artaxerxes;−1.97;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Aricia eumedon;−3.04;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Lycaena phlaeas;−5.3;;19;;19;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Lycaena virgaureae;−3.86;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Lycaena hippothoe;−6.98;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Callophrys rubi;−3.78;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Favonius quercus;−2.77;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Satyrium w-album;−3.18;;18;;18;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Thecla betulae;−6.91;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Issoria lathonia;0.46;;18;;18;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Brenthis ino;−2.82;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Argynnis paphia;−3.78;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Argynnis aglaja;−3.11;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Argynnis adippe;−3.54;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Argynnis niobe;−8.03;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Boloria selene;−4.05;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Boloria euphrosyne;−6.76;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Boloria eunomia;−11.07;;14;;14;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Boloria aquionaris;−3.09;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Araschnia levana;−4.59;;13;;13;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Vanessa atalanta;−4.29;;18;;18;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Cynthia cardui;−1.38;;16;;16;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Inachis io;−1.06;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Nymphalis antiopa;3.76;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Aglais urticae;2.47;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Polygonia c-album;−1.04;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Euphydryas aurina;−2.22;;15;;15;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Melitaea cinxia;−7.47;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Melitaea diamina;−5.52;;17;;17;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Melitaea athalia;−4.07;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Limenitis populi;−5.81;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Pararge aegeria;−4.76;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Coenonympha arcania;−2.07;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Coenonympha pamphilus;−0.27;;18;;18;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Coenonympha tullia;−3.64;;18;;18;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Lasiommata maera;−4.82;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Lasiommata petropolitana;−4.46;;19;;19;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Lasiommata megera;−1.58;;15;;15;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Maniola jurtina;−3.78;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Aphantopus hyperantus;−2.18;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;0.05;;;
+48;Erebia ligea;−1.5;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
+48;Hipparchia semele;−1.8;;20;;20;Sweden;Appearance Mean First;Temporal;1991-2010;;;;
