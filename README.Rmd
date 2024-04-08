@@ -1,0 +1,12 @@
+---
+title: "README"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## README
+
+The aim of this study is to determine whether butterfly first flight phenology is shifting with temperature. 53 studies were screened and finally 6 were included for a total of 107 effect sizes. The code used in the analysis, the data and the figures can be found here
